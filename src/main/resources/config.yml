@@ -1,0 +1,10 @@
+ProtectedWorlds:
+  -
+ExcludedWorlds:
+  -
+DoNotSpawn:
+  -
+BlockBreakWarningEvery: 10
+Warps:
+  - testing_1_18:
+      - home: VECTOR

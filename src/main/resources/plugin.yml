@@ -1,0 +1,9 @@
+name: MrGPlugin
+version: '${project.version}'
+main: org.bletchcraft.mrg.MrG
+api-version: 1.19
+prefix: mrg
+authors: [ Bletch ]
+description: Mr G's Plugin to manage and protect worlds
+website: bletchcraft.org
+
